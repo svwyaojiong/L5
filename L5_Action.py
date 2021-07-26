@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-@author: 91523/YaoJiong
-
-"""
-
 
 import pandas as pd
 import nltk
